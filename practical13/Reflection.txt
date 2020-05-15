@@ -1,0 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Fri May 15 09:59:44 2020
+
+@author: Administrator
+"""
+
+
+#Actually, this practical  is  quite hard for me, so that i had to ask classmates for help.
+#After finishing coding, I think I learnt a lot of usages of functions, which means I need to practice more often. 

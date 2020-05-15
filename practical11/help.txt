@@ -1,0 +1,9 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Fri May 15 09:45:50 2020
+
+@author: Administrator
+"""
+
+
+#I ask a other classmates for help.

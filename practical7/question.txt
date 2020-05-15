@@ -1,0 +1,14 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Fri May 15 09:46:39 2020
+
+@author: Administrator
+"""
+
+
+#Question: How have the new cases and total cases developed over time in Spain?
+
+#Answered starts in line 63
+
+#Discuss: As can be seen in the graph, the line indicating total cases rose significantly but the line indicating new cases rose and later fell. 
+                This outcome indicates that although the total case is increasing, the outbreak in Spain was roughly controled by the government.

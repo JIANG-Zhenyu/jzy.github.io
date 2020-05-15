@@ -1,0 +1,9 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Fri May 15 09:36:46 2020
+
+@author: Administrator
+"""
+
+
+#We found the sequences we get from output between human and  mouse are quite similar.
